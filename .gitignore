@@ -2,6 +2,9 @@
 venv/
 data/raw/
 data/processed/
+data/raw_videos/
+data/processed_dynamic/X_dynamic.npy
+data/processed_dynamic/y_dynamic.npy
 .env
 # Byte-compiled / optimized / DLL files
 __pycache__/

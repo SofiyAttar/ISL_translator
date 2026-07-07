@@ -6,7 +6,7 @@ from src.model import ISLClassifier
 import os
 
 # 1. Hyperparameters (L4: Keep these easily adjustable)
-CSV_PATH = "data/processed/landmarks.csv"
+CSV_PATH = "data/processed/landmarks_augmented.csv"
 BATCH_SIZE = 64
 LEARNING_RATE = 0.001
 EPOCHS = 100
