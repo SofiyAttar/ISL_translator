@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import torch
 import string
-from src.model import ISLClassifier
+from src.static.model import ISLClassifier
 from src.utils import normalize_landmarks # Import the exact same math used for training!
 
 # 1. Configuration
